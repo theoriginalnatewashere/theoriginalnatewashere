@@ -1,29 +1,82 @@
-<h1 align="center">Hi 👋, I'm Nethan</h1>
-<h3 align="center">A passionate AI designer focused on building impactful digital solutions</h3>
+<h1 align="center">Hi, I'm Nethan</h1>
+<h3 align="center">Data & AI | Building Human-Centered Intelligent Systems</h3>
 
-- 🔭 I’m currently working on [impact-analysis tools for social entreprenuers](Zwinafoundation.org)
-
-- 🌱 I’m currently learning **Exploring AI agents and automation workflows**
-
-- 👯 I’m curious about **Local LLM applications focused on privacy and autonomy**
-
-- 🤝 I’m looking to work in **Data-driven products and service design**
-
-- 👨‍💻 All of my projects are available at [natewashere.com](natewashere.com)
-
-- 💬 Ask me about **experience across applied data science, AI systems, and digital product development Interested in human-AI collaboration and ethical AI Building real-world AI applications using RAG, local LLMs, and data pipelines**
-
-- 📫 How to reach me **nethan.supakitchumnan@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/nethansu/](https://www.linkedin.com/in/nethansu/)
-
-- ⚡ Fun fact **I tend to turn everyday problems into small experiments, whether that is tracking habits, testing AI tools, or building quick prototypes.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+Focused on developing AI-driven systems that are practical, privacy-conscious, and designed for real-world impact.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
+
+### Current Focus
+
+- Building **AI-powered systems using Retrieval-Augmented Generation (RAG)** and local-first architectures  
+- Exploring **AI agents, automation workflows, and human-AI collaboration**  
+- Designing **privacy-preserving data systems (Data Pods / Local LLMs)**  
+- Developing **interactive prototypes across chat, voice, and data interfaces**  
+
+---
+
+### Featured Projects
+
+- **Data Pod Assistant (RAG System)**  
+  AI system that enables users to interact with personal data through a privacy-first, local processing approach  
+  → https://github.com/theoriginalnatewashere/thesis_prototype  
+
+- **Chatbot About Me (AI Profile Interface)**  
+  Conversational AI that represents my professional profile for recruiters and collaborators  
+  → https://github.com/theoriginalnatewashere/Chatbot_AboutMe  
+
+- **Voice AI Prototype**  
+  Real-time voice interface using speech-to-text and text-to-speech for natural AI interaction  
+  → https://github.com/theoriginalnatewashere/DS-Prototype_Voice  
+
+- **h2o.map (Data Visualization Prototype)**  
+  Exploration of geospatial and data-driven visualization for environmental insights  
+  → https://github.com/theoriginalnatewashere/h2o.map  
+
+---
+
+### Technical Focus
+
+- **AI Systems & Engineering**  
+  Retrieval-Augmented Generation (RAG), Prompt Engineering, LLM Integration, AI Prototyping  
+
+- **Data & Analytics**  
+  Data Processing, Semantic Search, Embeddings, Data Pipelines  
+
+- **Human-Centered Design**  
+  Translating complex AI systems into intuitive, usable interfaces  
+
+---
+
+### Tech Stack
+
+<p align="left">
+Python · Streamlit · LangChain · FAISS · OpenAI · Groq · Hugging Face  
+TensorFlow · PyTorch · Scikit-learn · Pandas  
+AWS · GCP · Git · Linux  
+JavaScript · React · D3.js  
+Figma · Framer · Adobe Suite  
+</p>
+
+---
+
+### About Me
+
+- Working at the intersection of **AI, data, and design**  
+- Interested in **responsible AI, privacy, and real-world applications**  
+- Experience building **end-to-end AI prototypes and data-driven products**  
+
+---
+
+### Connect
+
+- Portfolio: https://www.natewashere.com  
+- LinkedIn: https://www.linkedin.com/in/nethansu/  
+- Email: nethan.supakitchumnan@gmail.com  
+
+---
+
+### Additional
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=theoriginalnatewashere&show_icons=true&locale=en&layout=compact" alt="theoriginalnatewashere" /></p>
