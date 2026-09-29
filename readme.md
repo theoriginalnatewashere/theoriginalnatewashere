@@ -1,63 +1,45 @@
 <h1 align="center">Hi, I'm Nethan</h1>
-<h3 align="center">Data & AI | Building Human-Centered Intelligent Systems</h3>
+<h3 align="center">Data, AI, and human-centered design</h3>
 
 <p align="center">
-Focused on developing AI-driven systems that are practical, privacy-conscious, and designed for real-world impact.
+I build practical AI tools and data experiences that help people make sense of complex information.
 </p>
 
----
+### What I'm working on
 
-### Current Focus
+- Interactive dashboards that make research and public data easier to explore
+- Local-first AI assistants, retrieval-augmented generation (RAG), and agent workflows
+- Privacy-conscious personal data systems and natural interfaces for AI
+- A Thailand flood-risk dashboard that distinguishes observed conditions from forecasts (in development)
 
-- Building **AI-powered systems using Retrieval-Augmented Generation (RAG)** and local-first architectures  
-- Exploring **AI agents, automation workflows, and human-AI collaboration**  
-- Designing **privacy-preserving data systems (Data Pods / Local LLMs)**  
-- Developing **interactive prototypes across chat, voice, and data interfaces**  
+### Recent data projects
 
----
+| Project | What it explores | Links |
+| --- | --- | --- |
+| **City Explorer** | Compare European cities across quality-of-life measures, including environment, mobility, economic opportunity, and residents' perceptions. | [Code](https://github.com/theoriginalnatewashere/City-Explorer) · [Live dashboard](https://city-explorer-dashboard.netlify.app/) |
+| **AI Skill Heatmap** | Explore which skills appear across AI-related job families through an interactive heatmap. | [Code](https://github.com/theoriginalnatewashere/aiskill-heatmap) · [Live dashboard](https://aiskill-heatmap.nate-4f6.workers.dev/) |
+| **AI Job Postings Dashboard** | Explore trends in the share of job postings mentioning AI, using data published by Our World in Data. | [Live dashboard](https://ai-job-postings.netlify.app/) |
 
-### Featured Projects
+### AI and design projects
 
-- **Data Pod Assistant (RAG System)**  
-  AI system that enables users to interact with personal data through a privacy-first, local processing approach  
-  → https://github.com/theoriginalnatewashere/thesis_prototype  
+| Project | What it explores | Code |
+| --- | --- | --- |
+| **Data Pod Assistant** | A RAG prototype for interacting with personal data through a privacy-conscious interface. | [thesis_prototype](https://github.com/theoriginalnatewashere/thesis_prototype) |
+| **Chatbot About Me** | A conversational interface to my professional background and work. | [Chatbot_AboutMe](https://github.com/theoriginalnatewashere/Chatbot_AboutMe) |
+| **Voice AI Prototype** | A speech-to-text and text-to-speech interface for talking with an AI assistant. | [DS-Prototype_Voice](https://github.com/theoriginalnatewashere/DS-Prototype_Voice) |
+| **h2o.map** | A geospatial visualization prototype for environmental data. | [h2o.map](https://github.com/theoriginalnatewashere/h2o.map) |
 
-- **Chatbot About Me (AI Profile Interface)**  
-  Conversational AI that represents my professional profile for recruiters and collaborators  
-  → https://github.com/theoriginalnatewashere/Chatbot_AboutMe  
+### How I work
 
-- **Voice AI Prototype**  
-  Real-time voice interface using speech-to-text and text-to-speech for natural AI interaction  
-  → https://github.com/theoriginalnatewashere/DS-Prototype_Voice  
+My background in design shapes how I approach data and AI: start with a useful question, check the data and assumptions, then make the result understandable and usable. I am especially interested in tools that give people more agency over their information.
 
-- **h2o.map (Data Visualization Prototype)**  
-  Exploration of geospatial and data-driven visualization for environmental insights  
-  → https://github.com/theoriginalnatewashere/h2o.map  
+**Areas of practice:** Python, data processing and visualization, RAG and semantic search, LLM integration, JavaScript interfaces, UX research, and prototyping.
 
----
+### Tools and technologies
 
-### Technical Focus
-
-- **AI Systems & Engineering**  
-  Retrieval-Augmented Generation (RAG), Prompt Engineering, LLM Integration, AI Prototyping  
-
-- **Data & Analytics**  
-  Data Processing, Semantic Search, Embeddings, Data Pipelines  
-
-- **Human-Centered Design**  
-  Translating complex AI systems into intuitive, usable interfaces  
-
----
-
-### Tech Stack
-
-<p align="left">
-Python · Streamlit · LangChain · FAISS · OpenAI · Groq · Hugging Face  
-TensorFlow · PyTorch · Scikit-learn · Pandas  
-AWS · GCP · Git · Linux  
-JavaScript · React · D3.js  
-Figma · Framer · Adobe Suite  
-</p>
+Python · Pandas · Scikit-learn · Streamlit · LangChain · FAISS · OpenAI · Groq · Hugging Face  
+JavaScript · React · D3.js · Git · Linux · AWS · GCP  
+Figma · Framer · Adobe Suite
 
 ---
 
